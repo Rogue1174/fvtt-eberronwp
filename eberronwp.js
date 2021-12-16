@@ -11,7 +11,9 @@ Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponProperties['vicious'] = 'Vicious';
 	CONFIG.DND5E.weaponProperties['improvised'] = 'Improvised';
 	CONFIG.DND5E.armorTypes['testone'] = 'Test One';
-	CONFIG.DND5E.armor.type['testwo'] = 'Test Two';
-	CONFIG.DND5E.armortype['testfour'] = 'Test Four';
+	CONFIG.DND5E.baseTypes['testtwo'] = 'Test Two';
+	CONFIG.DND5E.equipmentTypes['testfour'] = 'Test Four';
+	CONFIG.DND5E.shieldTypes['testfive'] = 'Test Five';
+	CONFIG.DND5E.baseEquipmentTypes['testsix'] = 'Test Six';
 
 });
