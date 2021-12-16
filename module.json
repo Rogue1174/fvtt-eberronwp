@@ -2,7 +2,7 @@
   "name": "eberronwp",
   "title": "Eberron Weapon Properties",
   "description": "Adds A5e weapon properties",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": "Rogue",
   "systems": ["dnd5e"],
   "styles": [],
