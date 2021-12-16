@@ -9,11 +9,5 @@ Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponProperties['parryingimmunity'] = 'Parrying-Immunity';
 	CONFIG.DND5E.weaponProperties['trip'] = 'Trip';
 	CONFIG.DND5E.weaponProperties['vicious'] = 'Vicious';
-	CONFIG.DND5E.weaponProperties['improvised'] = 'Improvised';
-	CONFIG.DND5E.baseItems['testnine'] = 'Test Nine';
-	CONFIG.DND5E.weaponTypes['testseven'] = 'Test Seven';
-	CONFIG.DND5E.miscEquipmentTypes['testten'] = 'Test Ten';
-	CONFIG.DND5E.armorTypes['testone'] = 'Test One';
-
 
 });
