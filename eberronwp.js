@@ -10,8 +10,8 @@ Hooks.on('ready', () => {
 	CONFIG.DND5E.weaponProperties['trip'] = 'Trip';
 	CONFIG.DND5E.weaponProperties['vicious'] = 'Vicious';
 	CONFIG.DND5E.weaponProperties['improvised'] = 'Improvised';
-	CONFIG.DND5E.ItemEquipmentType['testone'] = 'Test One';
-	CONFIG.DND5E.ItemEquipmentBase['testwo'] = 'Test Two';
-	
+	CONFIG.DND5E.armorTypes['testone'] = 'Test One';
+	CONFIG.DND5E.armor.type['testwo'] = 'Test Two';
+	CONFIG.DND5E.armortype['testfour'] = 'Test Four';
 
 });
