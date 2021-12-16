@@ -2,7 +2,7 @@
   "name": "eberronwp",
   "title": "Eberron Weapon Properties",
   "description": "Adds A5eweapon properties",
-  "version": "0.2",
+  "version": "0.25",
   "author": "Rogue",
   "systems": ["dnd5e"],
   "styles": [],
@@ -10,5 +10,5 @@
   "manifest": "https://raw.githubusercontent.com/Rogue1174/fvtt-eberronwp/main/module.json",
   "download": "https://github.com/Rogue1174/fvtt-eberronwp/archive/main.zip",
   "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "0.7.9"
+  "compatibleCoreVersion": "0.8.9"
 }
